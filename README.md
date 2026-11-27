@@ -1,5 +1,7 @@
 # 16jr
 
+*Ponencia invitada* [**R for Geospatial Data Science and Health Surveillance**](https://www.paulamoraga.com/presentationR/#/)
+
 ## Sesión 1 
 
 ## Sesión 2 
