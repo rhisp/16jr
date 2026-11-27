@@ -1,6 +1,11 @@
 # 16jr
 
-*Ponencia invitada* [**R for Geospatial Data Science and Health Surveillance**](https://www.paulamoraga.com/presentationR/#/)
+*Ponencia invitada* 
+Paula Moraga, Ph.D. 
+Associate Professor of Statistics
+King Abdullah University of Science
+and Technology (KAUST), Saudi Arabia
+[**R for Geospatial Data Science and Health Surveillance**](https://www.paulamoraga.com/presentationR/#/)
 
 ## Sesión 1 
 
